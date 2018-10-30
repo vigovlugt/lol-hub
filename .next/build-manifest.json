@@ -6,6 +6,11 @@
       "static/chunks/commons.b8e29a7b81c47e8e2c9e.js",
       "static/runtime/main-03e1667d8d871adc3bbb.js"
     ],
+    "/random": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.b8e29a7b81c47e8e2c9e.js",
+      "static/runtime/main-03e1667d8d871adc3bbb.js"
+    ],
     "/_app": [
       "static/runtime/webpack-42652fa8b82c329c0559.js",
       "static/chunks/commons.b8e29a7b81c47e8e2c9e.js",

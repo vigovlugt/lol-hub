@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{227:function(n,o,p){__NEXT_REGISTER_PAGE("/random",function(){return n.exports=p(228),{page:n.exports.default}})},228:function(n,o){}},[[227,1]]]);
